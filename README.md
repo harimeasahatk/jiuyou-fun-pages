@@ -1,2 +1,14 @@
 # jiuyou-fun-pages
-HTML page archive and documentation
+
+自动页面托管记录
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 文件存档
+
+- 页面文件由发布任务写入
+- README 作为仓库说明保留
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
